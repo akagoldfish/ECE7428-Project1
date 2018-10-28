@@ -1,0 +1,30 @@
+text2:
+The only people for me are the mad ones -- the ones who are mad to live,
+mad to talk, mad to be saved, desirous of everything at the same time,
+the ones who never yawn or say a commonplace thing, but burn, burn, burn
+like fabulous yellow Roman candles.
+		-- Jack Kerouac, "On the Road"
+text10:
+Q:	How do you play religious roulette?
+A:	You stand around in a circle and blaspheme and see who gets
+	struck by lightning first.
+text7:
+Today is what happened to yesterday.
+text6:
+Q:	How did you get into artificial intelligence?
+A:	Seemed logical -- I didn't have any real intelligence.
+text4:
+Q:	What's tan and black and looks great on a lawyer?
+A:	A doberman.
+text1:
+You will soon forget this.
+text3:
+I'll burn my books.
+		-- Christopher Marlowe
+text8:
+Caution: breathing may be hazardous to your health.
+text9:
+There's small choice in rotten apples.
+		-- William Shakespeare, "The Taming of the Shrew"
+text5:
+Cold hands, no gloves.
